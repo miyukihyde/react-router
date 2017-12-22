@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="project" pattern="!file:.idea//*&amp;&amp;!file:*/node_modules//*&amp;&amp;!file:*/dist//*&amp;&amp;!file:*//*min*" />
+</component>
